@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NamanSudan
 - 👀 I’m interested in Data Science and have experience programming in C, C++, Java, & Python. I am familiar with topics like Data Structures, Computer Networks, and Database Management (MySQL and PostgreSQL).
-- 🌱 I’m currently learning Data Science and Power BI tools.
+- 🌱 I’m currently learning Python Full-Stack Development by building projects.
+- 🌱 I’m currently also learning Data Science and Power BI tools.
 - 📫 How to reach me: Via email: namansudans@gmail.com, nsudan@ucsc.edu | Linkedin: https://www.linkedin.com/in/namansudan/
 
 <!---

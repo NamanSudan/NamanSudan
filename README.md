@@ -13,6 +13,7 @@ My ideal roles involve pushing the boundaries of data engineering, AI implementa
 - AI/ML Systems Architect
 - Backend Engineer (with a focus on data-intensive applications)
 - MLOps Specialist
+
 I'm get very excited about opportunities that allow me to continue growing in these areas while contributing to impactful projects. My goal is to be part of a team that values innovation, continuous learning, and the practical application of advanced technologies.
 
 <!---

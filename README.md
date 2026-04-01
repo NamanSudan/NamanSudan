@@ -1,20 +1,16 @@
-As a software engineer with a focus on data and AI systems, my experiences at three startups  Kube8r, Accelera Payments, and Famished span several key areas:
+Data engineer working in cybersecurity and AI systems. Moving deeper into kernel engineering and low-level systems work.
 
-- Designing and implementing scalable data pipelines and ETL processes
-- Architecting and optimizing AI/ML systems, particularly in search and recommendation domains
-- Developing robust backend services and APIs for high-traffic applications
-- Implementing MLOps practices to streamline model deployment and monitoring
+Most of my professional experience has been in security data engineering at CVS Health - building OCSF normalization pipelines across 30+ security vendors, architecting a 500TB+ daily security data lake on Azure Databricks, and shipping an enterprise Multi-Agent AI Observability system that connects with our Data Lake and systems of record to help with the discovery, diagnosis, and remediation observability workflows. Uses ClickHouse, Neo4j, and MCP servers.
 
-I'm particularly passionate about leveraging cutting-edge technologies to solve complex data challenges. Whether it's optimizing query performance, implementing advanced embedding techniques, or designing microservices architectures, I like to approach each task with an eye for detail, ability to scale, and a commitment to excellent development outcomes.
+Right now I'm spending my time on two things outside of work:
+- Synthetic malware generation from cybersecurity research data - building tooling to produce realistic, labeled threat samples for training and evaluation.
+- Kernel-level systems engineering - because I think the future of meaningful software work lives closer to hardware.
 
-My ideal roles involve pushing the boundaries of data engineering, AI implementation, or backend development. I'm well-suited for positions that require a blend of technical depth and strategic thinking, such as:
+Pursuing my M.S. in Applied Data Intelligence at San Jose State University.
 
-- Senior Data Engineer
-- AI/ML Systems Architect
-- Backend Engineer (with a focus on data-intensive applications)
-- MLOps Specialist
+The tools I've used professionally - Python, PySpark, Databricks, Docker, AWS, Azure, FastAPI - got the job done, but I'm more interested in what sits underneath: systems programming, memory models, accelerator architectures, and performance at the metal level.
 
-I'm get very excited about opportunities that allow me to continue growing in these areas while contributing to impactful projects. My goal is to be part of a team that values innovation, continuous learning, and the practical application of advanced technologies.
+namansudans@gmail.com | linkedin.com/in/namansudan
 
 <!---
 NamanSudan/NamanSudan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
